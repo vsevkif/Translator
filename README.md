@@ -9,7 +9,7 @@ pip install -r requirements.txt
 4. Run the program:
 python main.py
 📘 HOW TO USE:
-1. Let's see how you can translate text here?
+1. Let's see how you can translate text here?<br>
 1.1. Enter any text in the upper large field.
   1.2. On the left, select the language in which the text is written (for example, "English (en)").
   1.3. On the right, select the language into which you want to translate (for example, "Ukrainian (uk)").
